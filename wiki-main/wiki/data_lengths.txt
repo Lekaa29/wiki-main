@@ -1,0 +1,18 @@
+Slavonski Brod Bosanski Brod: 0
+Slavonski Brod Dol: 0
+Slavonski Brod Centar: 23
+Slavonski Brod Kolonija: 2
+Slavonski Brod Livada: 11
+Slavonski Brod Mali Pariz: 6
+Slavonski Brod Naselje Andrije Hebranga: 3
+Slavonski Brod Jelas: 3
+Slavonski Brod Budainka: 6
+Slavonski Brod Marsonija: 1
+Slavonski Brod Mikrorajon: 2
+Slavonski Brod Slavonija 2: 1
+Slavonski Brod Naselje Zrinski-Frankopana: 4
+Slavonski Brod Plavo Polje: 2
+Blato Blato: 1
+Blato Prigradica: 1
+Blato Prižba: 1
+Dubrovačko Primorje Podgora: 2
